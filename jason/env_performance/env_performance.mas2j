@@ -1,0 +1,14 @@
+
+MAS env_performance {
+
+    infrastructure: Centralised
+
+    environment:
+         Counter
+
+    agents:
+         manager;
+
+         alice
+             #100;
+}
